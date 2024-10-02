@@ -1,0 +1,15 @@
+modelo\vo\AnimalVo.class
+controlador\Principal.class
+vista\VentanaGestionarMascotas.class
+modelo\procesos\ProcesosGenerales.class
+modelo\procesos\ProcesosPersona.class
+controlador\Coordinador.class
+vista\VentanaGestionarPersonas.class
+modelo\dao\AnimalDao.class
+modelo\dao\MascotaDao.class
+modelo\Conexion.class
+modelo\vo\PersonaVo.class
+modelo\dao\PersonaDao.class
+vista\VentanaPrincipal.class
+modelo\procesos\ProcesosMascota.class
+modelo\vo\MascotaVo.class
